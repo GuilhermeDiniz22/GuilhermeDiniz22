@@ -15,5 +15,5 @@
   <a href="https://www.linkedin.com/in/guilherme-diniz-dos-reis-gomes-60183114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiniz22&layout=pie)](https://github.com/GuilhermeDiniz22/github-readme-stats)
