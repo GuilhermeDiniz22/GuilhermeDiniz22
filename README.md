@@ -19,4 +19,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiniz22&layout=pie" />
 </a>
- ![Visitor Count](https://profile-counter.glitch.me/{GuilhermeDiniz22}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/GuilhermeDiniz22/count.svg)
