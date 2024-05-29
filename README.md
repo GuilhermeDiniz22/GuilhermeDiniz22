@@ -19,4 +19,19 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiniz22&layout=pie" />
 </a>
- ![Visitor Count](https://profile-counter.glitch.me/GuilhermeDiniz22/count.svg)
+
+<p align="center">
+    <a href="https://github.com/GuilhermeDiniz22?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/GuilhermeDiniz22" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/GuilhermeDiniz22" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/alwinw/GuilhermeDiniz22" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+</p>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDiniz22&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Linguagens mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiniz22&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
