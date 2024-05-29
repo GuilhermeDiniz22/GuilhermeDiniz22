@@ -6,7 +6,7 @@
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
+<br>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCUj12HwMfxxdxbcIHZ8aF8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermediniz303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
