@@ -6,7 +6,7 @@
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-  ![](https://gitwar.herokuapp.com/badge?username=your-github-GuilhermeDiniz22&style=flat-square)
+![Visitor Count](https : //profile-counter.glitch.me/{GuilhermeDiniz22}/count.svg)
   ##
  
 <div> 
