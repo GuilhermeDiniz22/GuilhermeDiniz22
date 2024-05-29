@@ -5,7 +5,7 @@
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  ![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=flat-square)
+  <img align="center" alt="Java" height="60" width="80" src="https://gitwar.herokuapp.com/badge?username=your-github-GuilhermeDiniz22&style=for-the-badge">
 </div>
   
   ##
